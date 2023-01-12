@@ -8,7 +8,7 @@
 
 * #### Begginer SW Developer
 
-
+<br/>
 
 ## :kiwi_fruit: Skills
 
@@ -19,7 +19,7 @@
 
 
 </div>
-
+<br/>
 
 
 ## :pear: Projects
