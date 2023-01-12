@@ -28,6 +28,6 @@
 
   ![](https://i.ibb.co/tpwN9W2/something.jpg)
 
-​&nbsp;&nbsp;			***#2D platformer #puzzle #pixels***
+​&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;		***#2D platformer #puzzle #pixels***
 
 
